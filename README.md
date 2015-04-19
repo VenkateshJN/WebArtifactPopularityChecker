@@ -7,8 +7,7 @@ Install MySql (configure it as username:'root',password:'iiit123',database:'popu
 Run as:
 In the directory Team3 just type
 
-./run.sh <fb_json_file> <twitter_json_file> 
-
+./run.sh *fb_json_file* *twitter_json_file*
 
 Example: ./run_sh dataset/Facebook_dataset dataset/Twitter_dataset.json
 
