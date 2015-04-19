@@ -16,7 +16,9 @@ Example: ./run_sh dataset/Facebook_dataset dataset/Twitter_dataset.json
 Output will be stored in the output folder in files named:
 
 Index_Score - Scores based on Indexing Results
+
 Knn_Score - Scores based on KNN Results
+
 popularity.sql - MySQL dump
 
 
