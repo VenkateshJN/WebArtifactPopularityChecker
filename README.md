@@ -15,3 +15,9 @@ Output will be stored in the output folder in files named:
 Index_Score - Scores based on Indexing Results
 Knn_Score - Scores based on KNN Results
 popularity.sql - MySQL dump
+
+
+Introductory Video : https://www.youtube.com/watch?v=ZfFu4NTXMjU&feature=youtu.be
+
+Slideshare: http://www.slideshare.net/tutulive/computing-social-score-of-web-aritfacts
+
